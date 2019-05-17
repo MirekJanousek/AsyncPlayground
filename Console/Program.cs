@@ -6,6 +6,7 @@ namespace AsyncPlayground
     {
         static void Main(string[] args)
         {
+			Console.WriteLine("Hi from Vlad");
             Console.WriteLine("Hello World!");
         }
     }
